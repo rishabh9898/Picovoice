@@ -1,2 +1,2 @@
 # Picovoice
-Solutions
+3 Solutions
